@@ -14,6 +14,9 @@ public class Metodo {
                 System.out.print("Peso: ");
                 o.setPeso(sc.nextDouble());
 
+                System.out.print("Precio: ");
+                o.setprecioPorunidad(sc.nextDouble());2
+
                 char tipo;
                 do {
                     System.out.print("Categoria (A,B,C): ");
